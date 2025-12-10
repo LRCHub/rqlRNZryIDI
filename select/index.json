@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Caffeine",
+  "base_artist": "Kiro Akiyama",
+  "createdAt": "2025-12-10T04:06:42.068659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/01_Caffeine_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Babylon Zoo",
+      "has_synced": true,
+      "path": "select/02_Caffeine_Babylon_Zoo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/03_Caffeine_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Caffeine Cold",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/04_Caffeine_Cold_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Wicca Phase Springs Eternal feat. Clams Casino & Fish Narc",
+      "has_synced": true,
+      "path": "select/05_Caffeine_Wicca_Phase_Springs_Eternal_feat._Clams_Casino_&_Fish_Narc.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/06_Caffeine_Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/07_Caffeine_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Alice Cooper",
+      "has_synced": false,
+      "path": "select/08_Caffeine_Alice_Cooper.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Lolo Zouaï",
+      "has_synced": true,
+      "path": "select/09_Caffeine_Lolo_Zouaï.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Caffeine (NOW What's Next!)",
+      "artist": "Lolo Zouaï",
+      "has_synced": true,
+      "path": "select/10_Caffeine_(NOW_What's_Next!)_Lolo_Zouaï.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Lolo Zouaï",
+      "has_synced": true,
+      "path": "select/11_Caffeine_Lolo_Zouaï.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Caffeine (2009 Remaster)",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/12_Caffeine_(2009_Remaster)_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "caffeine",
+      "artist": "brakence",
+      "has_synced": true,
+      "path": "select/13_caffeine_brakence.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "caffeine",
+      "artist": "brakence",
+      "has_synced": false,
+      "path": "select/14_caffeine_brakence.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Caffeine Cold",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/15_Caffeine_Cold_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Foreign Air",
+      "has_synced": false,
+      "path": "select/16_Caffeine_Foreign_Air.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Caffeine",
+      "artist": "Clams Casino",
+      "has_synced": true,
+      "path": "select/17_Caffeine_Clams_Casino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Caffeine",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/pl_01_Caffeine_Kiro_Akiyama.txt"
+    }
+  ]
+}
